@@ -1,0 +1,10 @@
+GAF Pro: Flash to Unity3D
+Version 4.0
+
+1) Nesting support.
+2) Unity 5 support.
+3) iOS x64 support.
+4) New Unity GAF Converter settings (conversion mode, debug & optimization).
+5) XML documentation for methods (from GAF assembly).
+6) Stencil buffer correct usage.
+7) Bugs fixes.
